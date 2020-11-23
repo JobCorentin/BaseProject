@@ -1,5 +1,7 @@
 # BaseProject
 
+DUPLIQUER POUR LES NOUVEAUX PROJETS
+
 Shaders :
 -Electricity
 -Trail
